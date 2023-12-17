@@ -67,3 +67,10 @@ Gunakan browser storage untuk menyimpan informasi secara lokal.
 Penjelasan:
 Fungsi Cookie: Evaluasi keberhasilan implementasi fungsi-fungsi untuk menetapkan, mendapatkan, dan menghapus cookie.
 Penggunaan Browser Storage: Penilaian sejauh mana browser storage digunakan dengan benar untuk menyimpan informasi secara lokal.
+
+Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
+Bagian bonus ini akan memberikan bobot tambahan 20% jika Anda berhasil meng-host aplikasi web yang Anda buat. Jawablah pertanyaan-pertanyaan berikut:
+(5%) Apa langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda?
+(5%) Pilih penyedia hosting web yang menurut Anda paling cocok untuk aplikasi web Anda. Berikan alasan Anda.
+(5%) Bagaimana Anda memastikan keamanan aplikasi web yang Anda host?
+(5%) Jelaskan konfigurasi server yang Anda terapkan untuk mendukung aplikasi web Anda.
